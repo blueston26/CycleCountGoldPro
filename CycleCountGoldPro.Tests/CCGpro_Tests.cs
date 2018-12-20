@@ -15,5 +15,11 @@ namespace CycleCountGoldPro.Tests
         {
             Assert.Pass();
         }
+
+        [Test]
+        public void SampleTest2()
+        {
+            Assert.Pass();
+        }
     }
 }
