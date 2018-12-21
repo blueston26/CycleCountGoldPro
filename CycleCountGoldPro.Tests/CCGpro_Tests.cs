@@ -11,13 +11,37 @@ namespace CycleCountGoldPro.Tests
     public class CCGpro_Tests
     {
         [Test]
-        public void SampleTest()
+        public void CreateFileTest()
         {
             Assert.Pass();
         }
 
         [Test]
-        public void SampleTest2()
+        public void WriteLineTest()
+        {
+            Assert.Pass();
+        }
+
+        [Test]
+        public void WriteHeaderTest()
+        {
+            Assert.Pass();
+        }
+
+        [Test]
+        public void ValidateScanGunSNField()
+        {
+            Assert.Pass();
+        }
+
+        [Test]
+        public void ValidateUsernameField()
+        {
+            Assert.Pass();
+        }
+
+        [Test]
+        public void CheckHasShareAccess()
         {
             Assert.Pass();
         }
